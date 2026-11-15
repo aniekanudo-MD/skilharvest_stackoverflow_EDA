@@ -40,7 +40,7 @@ skilharvest_stackoverflow_eda/
 - Streamlit
 ### Installation
 ```bash
-git clone https://github.com/Dr-Aniekan-Udo/skilharvest_stackoverflow_EDA.git
+git clone https://github.com/aniekanudo-MD/skilharvest_stackoverflow_EDA.git
 cd skilharvest_stackoverflow_eda
 pip install streamlit pandas numpy matplotlib seaborn plotly
 ```
